@@ -17,7 +17,7 @@ Projeto CRUD de cadastro de clientes para colocar em pratica conhecimentos sobre
 
 
 ### 📺 Prévia
-![previa](gif1.gif)
+![previa](img/home.gif)
 
 ### 🧪 Testes
 Criação de Preparation
