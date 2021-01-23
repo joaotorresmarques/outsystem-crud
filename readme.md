@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <img src="https://i.ibb.co/dBnfyLx/outsystems-vector-logo.png" alt="outsystems" border="0" /></a
+  <img src="https://i.ibb.co/dBnfyLx/outsystems-vector-logo.png" alt="outsystems" width="120" height="120" /></a
 </p>
 
 ### 📃 Sobre o Projeto
