@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  ![previa](img/outsystems-vector-logo.png)
+  <img src="https://i.ibb.co/dBnfyLx/outsystems-vector-logo.png" alt="outsystems" border="0" /></a
 </p>
 
 ### 📃 Sobre o Projeto
